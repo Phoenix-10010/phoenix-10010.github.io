@@ -1,0 +1,19 @@
+html {
+    background-color: black;
+    color: green;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    size: 20px;
+}
+
+
+.imgPhoenix {
+    margin: auto;
+    width: max-content;
+
+}
